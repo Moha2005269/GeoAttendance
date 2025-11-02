@@ -1,8 +1,8 @@
-```markdown
-# 🌌 GeoAttendance — Smart Face-Based Attendance System
+markdown
+## 🌌 GeoAttendance — Smart Face-Based Attendance System
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)]
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 > A futuristic, space-themed desktop attendance system that uses face recognition and liveness detection to mark student attendance — secure, fast, and beautiful.
 
