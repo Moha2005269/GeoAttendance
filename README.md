@@ -6,7 +6,7 @@ markdown
 
 > A futuristic, space-themed desktop attendance system that uses face recognition and liveness detection to mark student attendance — secure, fast, and beautiful.
 
-![Banner](banner.png)
+![Banner](Banner.png)
 
 ---
 
